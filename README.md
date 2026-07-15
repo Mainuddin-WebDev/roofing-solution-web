@@ -7,13 +7,13 @@ A lightweight, multi-page business web platform built entirely from scratch with
 ## 📑 Complete Page Presentations (PDF Downloads)
 For a high-resolution offline review of the layout grids, structural spacing, and typography elements, you can view or download the presentation file for each individual page below:
 
-* 👉 **[Download Home Page Presentation Layout (PDF)](./documentations/1-home.pdf)**
-* 👉 **[Download About Us Presentation Layout (PDF)](./documentations/2-about.pdf)**
-* 👉 **[Download Services Presentation Layout (PDF)](./documentations/3-services.pdf)**
-* 👉 **[Download Projects Presentation Layout (PDF)](./documentations/4-projects.pdf)**
-* 👉 **[Download Team Registry Presentation Layout (PDF)](./documentations/5-team.pdf)**
-* 👉 **[Download Blog Presentation Layout (PDF)](./documentations/6-blog.pdf)**
-* 👉 **[Download Contact Funnel Presentation Layout (PDF)](./documentations/7-contact.pdf)**
+* 👉 **[Download Home Page Presentation Layout (PDF)](./documentations/1-Home.pdf)**
+* 👉 **[Download About Us Presentation Layout (PDF)](./documentations/2-About Us.pdf)**
+* 👉 **[Download Services Presentation Layout (PDF)](./documentations/4-Services.pdf)**
+* 👉 **[Download Projects Presentation Layout (PDF)](./documentations/3-Projects.pdf)**
+* 👉 **[Download Team Registry Presentation Layout (PDF)](./documentations/5-Team.pdf)**
+* 👉 **[Download Blog Presentation Layout (PDF)](./documentations/6-blog.pdf)**6-Blog.pdf
+* 👉 **[Download Contact Funnel Presentation Layout (PDF)](./documentations/7-Contact Us.pdf)**
 
 *(Click any link above to view the high-res file directly in your browser or save it to your device)*
 
